@@ -20,3 +20,4 @@ This project automates the process of fetching, processing, and visualizing weat
    pip install -r requirements.txt
 
 
+![alt text](image.png)
