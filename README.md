@@ -18,6 +18,9 @@ This project automates the process of fetching, processing, and visualizing weat
 2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run Project:
+   ```bash
+   python automate_pipeline.py
 
 
 ![alt text](image.png)
