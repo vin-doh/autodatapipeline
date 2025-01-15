@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Birmingham, United Kingdom",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Birmingham",
+        "country": "United Kingdom",
+        "region": "West Midlands",
+        "lat": "52.485",
+        "lon": "-1.862",
+        "timezone_id": "Europe/London",
+        "localtime": "2025-01-15 14:44",
+        "localtime_epoch": 1736952240,
+        "utc_offset": "0.0"
+    },
+    "current": {
+        "observation_time": "02:44 PM",
+        "temperature": 12,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+        ],
+        "weather_descriptions": [
+            "Sunny"
+        ],
+        "wind_speed": 8,
+        "wind_degree": 222,
+        "wind_dir": "SW",
+        "pressure": 1033,
+        "precip": 0,
+        "humidity": 67,
+        "cloudcover": 0,
+        "feelslike": 12,
+        "uv_index": 0,
+        "visibility": 10,
+        "is_day": "yes"
+    }
+}

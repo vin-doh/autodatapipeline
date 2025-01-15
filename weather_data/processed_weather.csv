@@ -1,0 +1,8 @@
+Location,Temperature (°C),Description,Wind Speed (km/h),Humidity (%),Fetched At
+Accra,31,Sunny,18,71,2025-01-15 16:04
+Birmingham,12,Sunny,8,67,2025-01-15 16:04
+London,9,Mist,5,100,2025-01-15 16:04
+Manchester,11,Sunny,4,71,2025-01-15 16:04
+Paris,6,Mist,5,100,2025-01-15 16:04
+Tokyo,5,Clear,33,41,2025-01-15 16:04
+Toronto,-6,Partly cloudy,8,73,2025-01-15 16:04

@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Toronto, Canada",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Toronto",
+        "country": "Canada",
+        "region": "Ontario",
+        "lat": "43.667",
+        "lon": "-79.417",
+        "timezone_id": "America/Toronto",
+        "localtime": "2025-01-15 09:44",
+        "localtime_epoch": 1736934240,
+        "utc_offset": "-5.0"
+    },
+    "current": {
+        "observation_time": "02:44 PM",
+        "temperature": -6,
+        "weather_code": 116,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+        ],
+        "weather_descriptions": [
+            "Partly cloudy"
+        ],
+        "wind_speed": 8,
+        "wind_degree": 313,
+        "wind_dir": "NW",
+        "pressure": 1026,
+        "precip": 0,
+        "humidity": 73,
+        "cloudcover": 75,
+        "feelslike": -10,
+        "uv_index": 0,
+        "visibility": 14,
+        "is_day": "yes"
+    }
+}
